@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System (Final Project)
 
 A secure PHP-based Student Management System for internship submission.
@@ -21,3 +22,6 @@ A secure PHP-based Student Management System for internship submission.
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
 - XAMPP or similar local environment 
+=======
+# my-php-final-project
+>>>>>>> f008d4e7c82b840fd7185c6225d840da2a010006
