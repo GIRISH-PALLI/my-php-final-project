@@ -1,0 +1,10 @@
+body { background-color: #f8f9fa; }
+.navbar { margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,.1); }
+.container { max-width: 1200px; }
+.table { background-color: white; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+.table thead th { background-color: #f8f9fa; border-bottom: 2px solid #dee2e6; }
+.btn-sm { margin: 0 2px; }
+.form-control:focus { border-color: #80bdff; box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25); }
+.alert { margin-bottom: 1.5rem; }
+.input-group { max-width: 600px; }
+@media (max-width: 768px) { .table-responsive { margin-bottom: 1rem; } .btn-sm { padding: 0.25rem 0.5rem; font-size: 0.75rem; } } 
